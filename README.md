@@ -12,3 +12,5 @@ Marcos Enevoldsen - Tengo 20 años, soy de Bariloche estudiando en UADE la carre
 Agustin Botana - Tengo 20 años, soy de ezeiza y estudio segundo año de Ingenieria Informatica, me entusiasma aprender buenas practicas y como desarollar buen software. me gusta programar videojuegos en mi tiempo libre. durante este cuatrimestre me gustaria descubrir si java es tan dificil como dicen, ademas me interesan los desafios dificiles.
 
 Lucas Manrique - Tengo 20 años, soy estudiante de la tecnicatura en desarrollo de software. Me interesa principalmente el desarrollo web, pero todas las cosas nuevas que vemos son muy interesantes. Me gustaria de la materia llevarme conocimientos importantes y entender el funcionamiento de Java que tengo entendido es complicado.
+
+Ernesto Leomagno - Tengo 21 años ,soy de Vicente Lopez y estudiante de ingenieria en informatica.
